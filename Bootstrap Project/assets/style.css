@@ -1,0 +1,23 @@
+
+
+
+#navbar{background-color:#9b59b6 !important;}
+
+#navbar ul li a{font-weight:bold; font-size:18px; }
+
+#navdrop{background-color:#9b59b6; border-radius:15px;}
+
+#navdrop li a{color:#999;}
+
+#navdrop li a:hover{color:#000 !important; background-color:transparent !important;}
+
+#navbar ul li a:hover{color:#FFF;}
+
+#slidebtn {
+    background-color:gray; border-radius:50%; width:75px; height:75px;
+}
+
+#cont {height:400px !important;}
+
+#th {border:2px solid black;}
+
